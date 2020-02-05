@@ -1,0 +1,3 @@
+panel-plugin/toggle.c
+panel-plugin/toggle-dialogs.c
+panel-plugin/toggle.desktop.in

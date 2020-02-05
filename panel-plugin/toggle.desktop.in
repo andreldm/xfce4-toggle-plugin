@@ -1,0 +1,10 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+_Name=Toggle Plugin
+_Comment=Toggle plugin for the Xfce panel
+Icon=xfce4-toggle-plugin
+X-XFCE-Module=toggle
+X-XFCE-Internal=false
+X-XFCE-Unique=false
+X-XFCE-API=2.0
